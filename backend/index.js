@@ -14,7 +14,7 @@ app.use("/api/shared", require("./routes/sharedNotes.js"));
 app.use("/api/notes", require("./routes/notes.js"));
 
 app.get("/", (req, res) => {
-  res.send("NoteVerse project!");
+  res.send("INoteebook project!");
 });
 
 app.listen(port, () => {
