@@ -5,7 +5,7 @@ const About = () => {
     <div className="container">
       <h1>This is about page</h1>
       <p className="mt-3">
-      <strong>INoteebook</strong> is a cutting-edge note-making web application designed to enhance productivity and streamline your digital note-taking experience. Whether you're a student, professional, or simply an organized individual, INoteebook offers a range of features and functionalities to help you capture, organize, and access your notes effortlessly. With its intuitive user interface and robust set of tools, INoteebook is poised to become your go-to note-making companion.
+      <strong>INotes</strong> is a cutting-edge note-making web application designed to enhance productivity and streamline your digital note-taking experience. Whether you're a student, professional, or simply an organized individual, INotes offers a range of features and functionalities to help you capture, organize, and access your notes effortlessly. With its intuitive user interface and robust set of tools, INotes is poised to become your go-to note-making companion.
       </p>
     </div>
   );
